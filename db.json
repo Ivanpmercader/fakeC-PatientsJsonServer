@@ -1,0 +1,25 @@
+{
+  "patients": [
+    { "nombre": "Mariel", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-Q" },
+    { "nombre": "Angela", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12341678-W" },
+    { "nombre": "Héctor", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-E" },
+    { "nombre": "Helena", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-R" },
+    { "nombre": "Isis", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-T" },
+    { "nombre": "Penélope", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-Y" },
+    { "nombre": "Ulises", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-U" },
+    { "nombre": "Zeus", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-I" },
+    { "nombre": "Alba", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-O" },
+    { "nombre": "Alejandro", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-P" },
+    { "nombre": "Ivan", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-A" },
+    { "nombre": "Ana", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-S" },
+    { "nombre": "Emma", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-D" },
+    { "nombre": "Lucas", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-F" },
+    { "nombre": "Manuel", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-G" },
+    { "nombre": "Mariana", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-H" },
+    { "nombre": "Martin", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-J" },
+    { "nombre": "Lucia", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-K" },
+    { "nombre": "Bernardo", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-L" },
+    { "nombre": "Raquel", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-Z" },
+    { "nombre": "Samuel", "ap1": "Alvarez", "ap2": "Ejemplo", "RUT": "12345678-X" }
+  ]
+}
